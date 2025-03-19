@@ -1,0 +1,3 @@
+# Learn Haskell Blog Generator in Chinese
+
+> under construction ...
