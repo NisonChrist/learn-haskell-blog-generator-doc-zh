@@ -1,4 +1,3 @@
-````markdown
 # 灵活的 HTML 内容（函数）
 
 我们希望能够编写不同的 HTML 页面，而不必一遍又一遍地编写 `<html>` 和 `<body>` 标签的整个结构。我们可以用函数来做到这一点。
@@ -234,4 +233,3 @@ main = putStrLn
 main = putStrLn
                 (wrapHtml "Hello, world!")
 ```
-````

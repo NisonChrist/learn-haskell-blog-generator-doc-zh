@@ -1,4 +1,3 @@
-````markdown
 # 将标记转换为 HTML
 
 在我们将所有东西粘合在一起之前，还缺少一个关键部分，那就是将我们的 `Markup` 数据类型转换为 `Html`。
@@ -363,4 +362,3 @@ convertStructure structure =
 接下来，我们将把我们的功能粘合在一起，并学习 Haskell 中的 I/O！
 
 > 你可以查看我们所做更改的 git 提交 [the changes we've made](https://github.com/soupi/learn-haskell-blog-generator/commit/ad34f2264e9114f2d7436ff472c78da47055fcfe) 和 [到目前为止的代码](https://github.com/soupi/learn-haskell-blog-generator/tree/ad34f2264e9114f2d7436ff472c78da47055fcfe)。
-````

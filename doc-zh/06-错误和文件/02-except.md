@@ -1,4 +1,3 @@
-````markdown
 # IO 与 Either？
 
 当我们创建可能需要 I/O 的 `IO` 操作时，我们可能会遇到各种错误。
@@ -176,4 +175,3 @@ readFile "input.txt" >>= writeFile "output.html"
 > （末尾没有 `T`）。你有时可能想使用 `Except` 而不是 `Either`，
 > 因为它有一个比 `Either` 更合适的名称和更好的错误处理 API。
 
-````

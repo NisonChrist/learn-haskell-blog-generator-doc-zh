@@ -1,4 +1,3 @@
-````markdown
 # 优雅的选项解析
 
 我们希望为我们的程序定义一个更友好的界面。虽然我们可以通过 `getArgs` 和模式匹配自己实现一些功能，但使用库可以更容易地获得好的结果。我们将使用一个名为
@@ -946,4 +945,3 @@ Available commands:
 > 的 git 提交和
 > [到目前为止的代码](https://github.com/soupi/learn-haskell-blog-generator/tree/d0d76aad632fe3abd8701e44db5ba687e0c7ac96)。
 
-````
